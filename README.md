@@ -28,18 +28,6 @@ java -version
 
 ---
 
-## Estrutura esperada
-
-O projeto utiliza um arquivo chamado:
-
-```txt
-entrada.txt
-```
-
-Esse arquivo deve conter os dados dos processos e, quando necessário, o valor do quantum para o algoritmo Round Robin.
-
----
-
 ## Compilar o projeto
 
 ```bash
